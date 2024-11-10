@@ -1,3 +1,3 @@
 abc truong nhom
-Truong nhom : Nguyen Ngoc Tan
-Thanh vien : Pham Duong Duc Anh
+truong nhom nguyen ngoc tan
+thanh vien pham duong duc anh
